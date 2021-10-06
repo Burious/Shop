@@ -59,6 +59,17 @@ namespace Shop.Data.Mocks
                     isFavourite = true,
                     avaliable = true,
                     Category = _categoryCars.AllCategories.Last()
+                    },
+                    new Car
+                    {
+                        name = "Mercedes C63s AMG w205",
+                        shortDesc = "Громкий и быстрый",
+                        longDesc = "Твоя зарплата - мне в бак, мои способности -> в твоё счастье",
+                        img = "/img/c63amg.jpg",
+                        price = 45000,
+                        isFavourite = true,
+                        avaliable = true,
+                        Category = _categoryCars.AllCategories.Last()
                     }
                 };
             }
