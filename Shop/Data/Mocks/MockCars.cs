@@ -40,6 +40,17 @@ namespace Shop.Data.Mocks
                     },
                     new Car
                     {
+                        name = "Ford Fiesta",
+                        shortDesc = "Тихий и спокойный",
+                        longDesc = "Комфортный автомобиль для городской жизни",
+                        img = "/img/Fiesta.jpg",
+                        price = 45000,
+                        isFavourite = false,
+                        avaliable = true,
+                        Category = _categoryCars.AllCategories.Last()
+                    },
+                    new Car
+                    {
                     name = "Mercedes C63s AMG w205",
                     shortDesc = "Громкий и быстрый",
                     longDesc = "Твоя зарплата - мне в бак, мои способности -> в твоё счастье",
