@@ -17,7 +17,7 @@ namespace Shop.Data.Models
             this.appDBContent = appDBcontent;
         }
         public string ShopCartId { get; set; }
-        public List<ShopCartItem> lisySgopItems { get; set; }
+        public List<ShopCartItem> listShopItems { get; set; }
 
         public static Shopcart GetCart(IServiceProvider services)
         {
