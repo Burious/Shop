@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "44TUYh4ExzLz0dtZng9qyVqnanznFoJHYWiv3X6fusDzvPtmFN3O3T0uVJOHRtWPY/GKvAXFU4ZlbRwI/ZVlsw==",
+  "dgSpecHash": "hPJ5d908mnjyNyiX+RKeVPXMnKN2LTy5MDsjcBJ5AWyxvLbGVW/Ka6e8VWMvXiOB6sRndYCQWgBKWy/P2zMqYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Burious\\source\\repos\\Shop\\Shop\\Shop.csproj",
+  "projectFilePath": "C:\\Users\\Burious\\source\\repos\\DreamCar\\Shop\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Burious\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Burious\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",

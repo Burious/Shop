@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burious\\source\\repos\\Shop\\Shop\\Shop.csproj": {}
+    "C:\\Users\\Burious\\source\\repos\\DreamCar\\Shop\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burious\\source\\repos\\Shop\\Shop\\Shop.csproj": {
+    "C:\\Users\\Burious\\source\\repos\\DreamCar\\Shop\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burious\\source\\repos\\Shop\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\Burious\\source\\repos\\DreamCar\\Shop\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\Burious\\source\\repos\\Shop\\Shop\\Shop.csproj",
+        "projectPath": "C:\\Users\\Burious\\source\\repos\\DreamCar\\Shop\\Shop\\Shop.csproj",
         "packagesPath": "C:\\Users\\Burious\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Burious\\source\\repos\\Shop\\Shop\\obj\\",
+        "outputPath": "C:\\Users\\Burious\\source\\repos\\DreamCar\\Shop\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
