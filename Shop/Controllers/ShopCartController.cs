@@ -27,7 +27,7 @@ namespace Shop.Controllers
         public ViewResult Index()
         {
             var items = _shopCart.GetShopItems();
-            _shopCart.lisySgopItems = items;
+            _shopCart.listShopItems = items;
 
             var obj = new ShopCartViewModel()
             {
@@ -43,7 +43,6 @@ namespace Shop.Controllers
             {
                 _shopCart.AddToCart(item);
             }
-
             return RedirectToAction("Index");
         }
     }
