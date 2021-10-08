@@ -24,7 +24,7 @@ namespace Shop.Data
                 content.AddRange(new Car
                     {
                         name = "Tesla",
-                        shortDesc = "Быстрый автомобиль",
+                        shortDesc = "Fast stylish electrocar",
                         longDesc = "Красивый, быстрый и очень тихий автомобиль компании Tesla",
                         img = "/img/tesla.jpg",
                         price = 45000,
@@ -35,7 +35,7 @@ namespace Shop.Data
                     new Car
                     {
                         name = "Ford Fiesta",
-                        shortDesc = "Тихий и спокойный",
+                        shortDesc = "Silent and comfortable",
                         longDesc = "Комфортный автомобиль для городской жизни",
                         img = "/img/Fiesta.jpg",
                         price = 45000,
@@ -46,13 +46,24 @@ namespace Shop.Data
                     new Car
                     {
                         name = "Mercedes C63s AMG w205",
-                        shortDesc = "Громкий и быстрый",
+                        shortDesc = "Fast and loud",
                         longDesc = "Твоя зарплата - мне в бак, мои способности -> в твоё счастье",
                         img = "/img/c63amg.jpg",
                         price = 45000,
                         isFavourite = true,
                         avaliable = true,
                         Category = Categories["Классические автомобили"]
+                    },
+                    new Car
+                    {
+                    name = "BMW M5 F90 CS",
+                    shortDesc = "The best car of BMW",
+                    longDesc = "The most beautiful and the fastest vehicle created in BMW ",
+                    img = "/img/m5cs.jpg",
+                    price = 15000,
+                    isFavourite = true,
+                    avaliable = true,
+                    Category = Categories["Классические автомобили"]
                     });
             }
 
